@@ -161,3 +161,23 @@ http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="精彩4K",CCTV4K
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+
+#海爷TV
+#EXTINF:-1 group-title="海爷TV",【海爷TV动漫】
+https://cn-lnsy-cu-live-02.live-play.acgvideo.com/live-bvc/754385/live_189986442_7728008_1500.m3u8
+#EXTINF:-1 group-title="海爷TV",【海爷TV恐怖影院】
+http://cn-hnjz-cu-live-02.live-play.acgvideo.com/live-bvc/863844/live_280698572_9101071_1500.m3u8
+#EXTINF:-1 group-title="海爷TV",【海爷TV科幻】
+https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/685236/live_261831479_8429255.m3u8
+#EXTINF:-1 group-title="海爷TV",【海爷TV动作】
+https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/877642/live_199793349_7660540.m3u8
+#EXTINF:-1 group-title="海爷TV",【海爷TV国产剧】
+https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/813601/live_268522326_2538218.m3u8
+#EXTINF:-1 group-title="海爷TV",【海爷TV外国剧】
+https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/768515/live_52370715_1734265_1500.m3u8
+#EXTINF:-1 group-title="海爷TV",【海爷TV海贼王】
+https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/250470/live_27444411_4287972_1500.m3u8
+#EXTINF:-1 group-title="海爷TV",【8号电影院】
+https://cn-lnsy-cu-live-02.live-play.acgvideo.com/live-bvc/110734/live_14659392_8620418.m3u8
+#EXTINF:-1 group-title="海爷TV",【国外恐怖影院】
+https://cn-lnsy-cu-live-02.live-play.acgvideo.com/live-bvc/654239/live_416544064_58389145_1500.m3u8
