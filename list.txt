@@ -78,20 +78,6 @@ http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视
 http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 
-#影视轮播
-#EXTINF:-1 tvg-id="1" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="DOX轮播",DOX院线
-http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8a7d213b10550559a073db188d08d5f7
-#EXTINF:-1 tvg-id="2" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="DOX轮播",DOX雅趣
-http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=98a5538384f14ca487ca96786a441bbe
-#EXTINF:-1 tvg-id="3" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="DOX轮播",DOX新知
-http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8df92ef18e714e80bc302723d5e933ee
-#EXTINF:-1 tvg-id="4" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="DOX轮播",DOX新艺
-http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=3fec5428637fe3d00cea8deb981ca71c
-#EXTINF:-1 tvg-id="5" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="DOX轮播",DOX怡家
-http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=9c6e3fd0b37dd8b7e4bc1f06c44cb6cf
-#EXTINF:-1 tvg-id="6" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="DOX轮播",DOX映画
-http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e16878a022c216b17975299a9ac369dc
-
 #港台频道
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文(备2)
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
