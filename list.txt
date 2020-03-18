@@ -58,7 +58,7 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3
 #EXTINF:-1 tvg-id="12" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视频道",河南卫视
-http://live.hntv.tv:9602/live/live1/500K/tzwj_video.m3u8?KEY1=98b0374ea4db43e47f4fc26de33b6649&KEY2=5e6cb523&seachBegin=0&seachNum=123454321&BVUUID=45E414EF-9D4B-3ED9-2246-CB28622E1E40
+http://117.156.28.21/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视频道",四川卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视频道",辽宁卫视
