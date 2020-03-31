@@ -177,6 +177,10 @@ http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="港台频道",BabyFirst台湾
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港台频道",东森新闻
+http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="港台频道",东森新闻备1
+http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 
 #精彩4K频道
 #EXTINF:-1 tvg-id="2" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="精彩4K",BesTV4K
