@@ -4,3 +4,5 @@
     https://michael8278769.github.io/list.txt
     
     https://michael8278769.github.io/list.m3u
+
+    https://gitee.com/kinghunki/TV/raw/master/zb.txt
