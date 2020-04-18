@@ -109,13 +109,13 @@ http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
 #EXTINF:-1 tvg-id="6004" tvg-name="电影4台" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/movie04.png" group-title="电影频道",电影4台
 http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
-#EXTINF:-1 tvg-id="6008" tvg-name="票房收割机" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/movie03.png" group-title="电影频道",票房收割机
+#EXTINF:-1 tvg-id="6008" tvg-name="票房收割机" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/movie021.png" group-title="电影频道",票房收割机
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="惊悚电影" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/movie03.png" group-title="电影频道",惊悚午夜场
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="6011" tvg-name="动画电影" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/movie03.png" group-title="电影频道",动画电影
+#EXTINF:-1 tvg-id="6011" tvg-name="动画电影" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/movie04.png" group-title="电影频道",动画电影
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="6012" tvg-name="华语院线" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/movie03.png" group-title="电影频道",华语院线
+#EXTINF:-1 tvg-id="6012" tvg-name="华语院线" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/movie01.png" group-title="电影频道",华语院线
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huayuyuanxian_1080p_t10/c16_lb_huayuyuanxian_1080p_t10.m3u8
 
 #港台频道
