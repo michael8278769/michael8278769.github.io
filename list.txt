@@ -113,12 +113,16 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3
 #星光影视频道
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/BXQY.png" group-title="冰雪奇缘",冰雪奇缘
 http://leshi.cdn-zuyida.com/20180116/GYnednK1/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/BXQY.png" group-title="冰雪奇缘2",冰雪奇缘2
+#EXTINF:-1 tvg-id="2" tvg-name="" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/BXQY.png" group-title="冰雪奇缘",冰雪奇缘2
 http://meinv.jingyu-zuida.com/20200212/12627_1cc30594/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="精彩4K",纯享4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="精彩4K",CCTV4K
-http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/YW.png" group-title="叶问",叶问
+http://yi.jingdianzuida.com/20190908/5kD9AEWf/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/YW.png" group-title="叶问",叶问2
+http://yanzishan.shuhu-zuida.com/20190809/6574_2dcd8f30/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/YW.png" group-title="叶问",叶问3
+http://haoa.haozuida.com/20171122/LABXyqST/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/YW.png" group-title="叶问",叶问4
+http://hong.tianzhen-zuida.com/20200209/19971_59b58144/index.m3u8
 
 #电影频道
 #EXTINF:-1 tvg-id="6001" tvg-name="电影1台" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/movie01.png" group-title="电影频道",电影1台
