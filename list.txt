@@ -100,6 +100,16 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3
 #EXTINF:-1 tvg-id="6029" tvg-name="中国教育" tvg-logo="https://michael8278769.github.io/tvlogo/CCTV/CETV01.png" group-title="卫视频道",中国教育
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
 
+#精彩4K频道
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/cctv4k.jpg" group-title="精彩4K",美丽中国4K
+https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="精彩4K",BesTV4K
+http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="精彩4K",纯享4K
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="精彩4K",CCTV4K
+http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+
 #电影频道
 #EXTINF:-1 tvg-id="6001" tvg-name="电影1台" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/movie01.png" group-title="电影频道",电影1台
 http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
@@ -137,16 +147,6 @@ http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港台频道",东森新闻(备1)
 http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-
-#精彩4K频道
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="精彩4K",美丽中国4K
-https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="精彩4K",BesTV4K
-http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="精彩4K",纯享4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="精彩4K",CCTV4K
-http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 
 #欧美频道
 #EXTINF:-1 tvg-id=" " tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="欧美频道",FOX动作电影
