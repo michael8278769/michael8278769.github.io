@@ -40,6 +40,16 @@ http://125.210.152.18:9090/live/JTYYHD.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CHC动作电影" tvg-logo="https://michael8278769.github.io/tvlogo/CCTV/CHCAM.png" group-title="央视频道",CHC动作电影
 http://125.210.152.18:9090/live/DZDYHD.m3u8
 
+#精彩4K频道
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://michael8278769.github.io/tvlogo/CCTV/CCTVB4K.png" group-title="精彩4K",美丽中国4K
+https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="" tvg-logo="https://michael8278769.github.io/tvlogo/CCTV/BesTVHD.png" group-title="精彩4K",BesTV4K
+http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="精彩4K",纯享4K
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="精彩4K",CCTV4K
+http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+
 #卫视频道
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视
 http://39.135.34.150:8080/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009115&owchid=ystenlive&owsid=1106497909461209970&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRJ1HPTMtmQf%2bVwcp8RojByB2Rhtn7waHVWUQ9gcJ0mHLEp3xuYtoWp3K%2bdNVn%2bMR4
@@ -99,16 +109,6 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 tvg-id="6029" tvg-name="中国教育" tvg-logo="https://michael8278769.github.io/tvlogo/CCTV/CETV01.png" group-title="卫视频道",中国教育
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
-
-#精彩4K频道
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/cctv4k.jpg" group-title="精彩4K",美丽中国4K
-https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="精彩4K",BesTV4K
-http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="精彩4K",纯享4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="精彩4K",CCTV4K
-http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 
 #电影频道
 #EXTINF:-1 tvg-id="6001" tvg-name="电影1台" tvg-logo="https://michael8278769.github.io/tvlogo/Movie/movie01.png" group-title="电影频道",电影1台
